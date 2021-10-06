@@ -1,0 +1,2 @@
+name = "しらはまたいき"
+puts name
